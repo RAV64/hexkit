@@ -6,7 +6,7 @@ description = "Lightweight boundary traits for hexagonal architecture in Rust"
 license = "MIT"
 repository = "https://github.com/RAV64/hexkit"
 readme = "README.md"
-keywords = ["hexagonal-architecture", "ports-and-adapters", "architecture", "ddd"]
+keywords = ["hexagonal", "ports-and-adapters", "architecture", "ddd"]
 categories = ["rust-patterns", "development-tools"]
 
 [features]
