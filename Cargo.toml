@@ -1,0 +1,18 @@
+[package]
+name = "hexkit"
+version = "0.1.0"
+edition = "2024"
+
+[features]
+default = []
+async = []
+
+[dependencies]
+
+[[example]]
+name = "async_basic_email_flow"
+required-features = ["async"]
+
+[[example]]
+name = "async_retry_timeout_policy"
+required-features = ["async"]
